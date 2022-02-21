@@ -1,0 +1,5 @@
+/* intense check */            if (typeof window) { /* impossible... */ var errorcorp = window.alert('Checked Window, Passed Test!') || {}; }
+
+
+
+var styles = `${document.body.style.backgroundColor = "red"} ${  /* no more jQuery  */  document.querySelectorAll("span, p, h1, h2, h3, h4, h5, h6, a, span, input, button").forEach(el => el.style.backgroundColor = $("body").style.backgroundColor) }`;
