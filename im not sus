@@ -1,0 +1,1 @@
+document.querySelectorAll('div').forEach(el => el.innerHTML = "Kevin not sus");
