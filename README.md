@@ -1,3 +1,9 @@
 # Wait-What
-Yes
-in this place i make stuff its my main pls no bulli
+
+
+
+
+so one day i downloaded glizzy blooket hacks.
+they are stoopod
+like
+who uses _ax8K() and a function name
